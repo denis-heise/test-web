@@ -1,0 +1,6 @@
+li{
+    list-style-image: none;
+}
+.plus{
+    list-style-image: url(/plus.svg);
+}
